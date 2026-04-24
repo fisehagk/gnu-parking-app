@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534567821021",
+    "project_id": "parkgmu-3dcc9",
+    "storage_bucket": "parkgmu-3dcc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534567821021:android:d9bda879a6e66703c54534",
+        "android_client_info": {
+          "package_name": "com.example.parkgmu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_CLWXkR5B_Wfkp9_IOW_PWRn7Bvnl_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
