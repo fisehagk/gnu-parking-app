@@ -14,13 +14,13 @@ ParkGMU is a real-time, crowd-powered Android application that helps students at
 ![Login Screen](assets/images/login.png)
 
 ### 🗺️ Parking Map (Available Spots)
-![Map View](assets/images/available_spots.png)
+![Map View](assets/images/map.png)
 
 ### 📍 Check-In (Claimed Spot)
 ![Check In](assets/images/checkin.png)
 
 ### 📍 Current Location
-![Current Location](assets/images/current_location.png)
+![Current Location](assets/images/location.png)
 
 ### 👤 User Profile
 ![Profile](assets/images/profile.png)
